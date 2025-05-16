@@ -1,0 +1,25 @@
+# Android Studio build files
+/.idea/
+*.iml
+/build/
+/app/build/
+/local.properties
+/captures/
+
+# Firebase sensitive files
+/app/google-services.json
+
+# Gradle files
+/.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+/gradle-wrapper.jar
+/gradle-wrapper.properties
+
+# Kotlin
+/.kotlin/
+
+# Other
+*.log
+*.bak
